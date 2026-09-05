@@ -1,0 +1,452 @@
+{
+  "geovesselmot-05": {
+    "wx": 1.1,
+    "wy": 1.6,
+    "a": 15,
+    "cdt": 20,
+    "conf": 0.15000000000000002,
+    "vmax": 2.1,
+    "shape_w": 0.75
+  },
+  "geovesselmot-07": {
+    "wx": 1.6,
+    "wy": 0.1,
+    "a": 7,
+    "cdt": 45,
+    "conf": 0.08,
+    "vmax": 1.7,
+    "shape_w": 2.25
+  },
+  "geovesselmot-08": {
+    "wx": 1.6,
+    "wy": 1.6,
+    "a": 5,
+    "cdt": 35,
+    "conf": 0.16,
+    "vmax": 1.1,
+    "shape_w": 1.5
+  },
+  "geovesselmot-11": {
+    "wx": 1.6,
+    "wy": 3.6,
+    "a": 35,
+    "cdt": 25,
+    "conf": 0.25,
+    "vmax": 2.1,
+    "shape_w": 0.75
+  },
+  "geovesselmot-14": {
+    "wx": 0.1,
+    "wy": 3.6,
+    "a": 23,
+    "cdt": 45,
+    "conf": 0.21000000000000002,
+    "vmax": 1.7,
+    "shape_w": 1.5
+  },
+  "geovesselmot-16": {
+    "wx": 0.1,
+    "wy": 3.1,
+    "a": 11,
+    "cdt": 35,
+    "conf": 0.12000000000000001,
+    "vmax": 1.4000000000000001,
+    "shape_w": 2.5
+  },
+  "geovesselmot-18": {
+    "wx": 2.1,
+    "wy": 2.1,
+    "a": 23,
+    "cdt": 55,
+    "conf": 0.18,
+    "vmax": 2.7,
+    "shape_w": 1.25
+  },
+  "geovesselmot-22": {
+    "wx": 0.1,
+    "wy": 3.1,
+    "a": 13,
+    "cdt": 60,
+    "conf": 0.05,
+    "vmax": 2.4000000000000004,
+    "shape_w": 1.25
+  },
+  "geovesselmot-25": {
+    "wx": 0.1,
+    "wy": 0.6,
+    "a": 11,
+    "cdt": 60,
+    "conf": 0.25,
+    "vmax": 0.6000000000000001,
+    "shape_w": 2.0
+  },
+  "geovesselmot-29": {
+    "wx": 0.1,
+    "wy": 3.6,
+    "a": 27,
+    "cdt": 50,
+    "conf": 0.38,
+    "vmax": 0.4,
+    "shape_w": 2.5
+  },
+  "geovesselmot-31": {
+    "wx": 2.1,
+    "wy": 4.6,
+    "a": 45,
+    "cdt": 40,
+    "conf": 0.14,
+    "vmax": 0.6000000000000001,
+    "shape_w": 0.25
+  },
+  "geovesselmot-37": {
+    "wx": 0.6,
+    "wy": 4.1,
+    "a": 17,
+    "cdt": 50,
+    "conf": 0.33999999999999997,
+    "vmax": 2.0,
+    "shape_w": 0.5
+  },
+  "geovesselmot-41": {
+    "wx": 3.6,
+    "wy": 1.1,
+    "a": 45,
+    "cdt": 60,
+    "conf": 0.39,
+    "vmax": 1.2,
+    "shape_w": 0.25
+  },
+  "geovesselmot-47": {
+    "wx": 0.6,
+    "wy": 0.1,
+    "a": 39,
+    "cdt": 60,
+    "conf": 0.6,
+    "vmax": 2.6000000000000005,
+    "shape_w": 0.0
+  },
+  "geovesselmot-49": {
+    "wx": 3.1,
+    "wy": 2.1,
+    "a": 31,
+    "cdt": 60,
+    "conf": 0.22000000000000003,
+    "vmax": 2.9000000000000004,
+    "shape_w": 1.25
+  },
+  "geovesselmot-54": {
+    "wx": 0.1,
+    "wy": 0.1,
+    "a": 29,
+    "cdt": 20,
+    "conf": 0.15000000000000002,
+    "vmax": 0.5,
+    "shape_w": 2.25
+  },
+  "geovesselmot-59": {
+    "wx": 4.1,
+    "wy": 3.1,
+    "a": 25,
+    "cdt": 40,
+    "conf": 0.14,
+    "vmax": 2.2,
+    "shape_w": 0.75
+  },
+  "geovesselmot-61": {
+    "wx": 0.1,
+    "wy": 3.6,
+    "a": 9,
+    "cdt": 55,
+    "conf": 0.27,
+    "vmax": 1.1,
+    "shape_w": 2.25
+  },
+  "geovesselmot-64": {
+    "wx": 4.6,
+    "wy": 5.0,
+    "a": 15,
+    "cdt": 35,
+    "conf": 0.22000000000000003,
+    "vmax": 2.1,
+    "shape_w": 0.5
+  },
+  "geovesselmot-68": {
+    "wx": 1.6,
+    "wy": 3.6,
+    "a": 15,
+    "cdt": 55,
+    "conf": 0.05,
+    "vmax": 1.0,
+    "shape_w": 2.25
+  },
+  "geovesselmot-73": {
+    "wx": 0.1,
+    "wy": 0.6,
+    "a": 10,
+    "cdt": 30,
+    "conf": 0.25,
+    "vmax": 0.5,
+    "shape_w": 0.0
+  },
+  "geovesselmot-75": {
+    "wx": 2.6,
+    "wy": 4.6,
+    "a": 27,
+    "cdt": 10,
+    "conf": 0.31,
+    "vmax": 2.3000000000000003,
+    "shape_w": 2.0
+  },
+  "geovesselmot-83": {
+    "wx": 0.6,
+    "wy": 0.1,
+    "a": 51,
+    "cdt": 15,
+    "conf": 0.26,
+    "vmax": 2.5000000000000004,
+    "shape_w": 1.25
+  },
+  "geovesselmot-84": {
+    "wx": 1.6,
+    "wy": 2.6,
+    "a": 15,
+    "cdt": 40,
+    "conf": 0.1,
+    "vmax": 2.7,
+    "shape_w": 0.0
+  },
+  "geovesselmot-85": {
+    "wx": 2.6,
+    "wy": 1.1,
+    "a": 23,
+    "cdt": 15,
+    "conf": 0.05,
+    "vmax": 2.2,
+    "shape_w": 0.25
+  },
+  "geovesselmot-88": {
+    "wx": 1.1,
+    "wy": 4.6,
+    "a": 47,
+    "cdt": 60,
+    "conf": 0.56,
+    "vmax": 1.9000000000000001,
+    "shape_w": 2.75
+  },
+  "geovesselmot-90": {
+    "wx": 4.6,
+    "wy": 4.1,
+    "a": 57,
+    "cdt": 10,
+    "conf": 0.43,
+    "vmax": 1.6,
+    "shape_w": 1.75
+  },
+  "geovesselmot-93": {
+    "wx": 0.1,
+    "wy": 0.1,
+    "a": 33,
+    "cdt": 20,
+    "conf": 0.08,
+    "vmax": 2.7,
+    "shape_w": 2.5
+  },
+  "geovesselmot-94": {
+    "wx": 1.6,
+    "wy": 1.6,
+    "a": 25,
+    "cdt": 45,
+    "conf": 0.09,
+    "vmax": 2.6000000000000005,
+    "shape_w": 1.0
+  },
+  "geovesselmot-96": {
+    "wx": 0.1,
+    "wy": 3.1,
+    "a": 49,
+    "cdt": 10,
+    "conf": 0.29,
+    "vmax": 0.30000000000000004,
+    "shape_w": 3.0
+  },
+  "geovesselmot-98": {
+    "wx": 3.1,
+    "wy": 0.6,
+    "a": 37,
+    "cdt": 60,
+    "conf": 0.15000000000000002,
+    "vmax": 1.4000000000000001,
+    "shape_w": 1.75
+  },
+  "geovesselmot-100": {
+    "wx": 0.6,
+    "wy": 4.1,
+    "a": 25,
+    "cdt": 15,
+    "conf": 0.32,
+    "vmax": 0.6000000000000001,
+    "shape_w": 2.75
+  },
+  "geovesselmot-106": {
+    "wx": 0.6,
+    "wy": 4.6,
+    "a": 25,
+    "cdt": 55,
+    "conf": 0.26,
+    "vmax": 1.2,
+    "shape_w": 1.25
+  },
+  "geovesselmot-108": {
+    "wx": 1.6,
+    "wy": 3.6,
+    "a": 31,
+    "cdt": 25,
+    "conf": 0.22000000000000003,
+    "vmax": 1.2,
+    "shape_w": 2.25
+  },
+  "geovesselmot-110": {
+    "wx": 3.6,
+    "wy": 0.1,
+    "a": 17,
+    "cdt": 20,
+    "conf": 0.12000000000000001,
+    "vmax": 2.3000000000000003,
+    "shape_w": 2.25
+  },
+  "geovesselmot-113": {
+    "wx": 4.1,
+    "wy": 1.6,
+    "a": 35,
+    "cdt": 60,
+    "conf": 0.33,
+    "vmax": 2.4000000000000004,
+    "shape_w": 2.0
+  },
+  "geovesselmot-114": {
+    "wx": 0.6,
+    "wy": 3.6,
+    "a": 37,
+    "cdt": 30,
+    "conf": 0.51,
+    "vmax": 2.7,
+    "shape_w": 1.5
+  },
+  "geovesselmot-115": {
+    "wx": 2.6,
+    "wy": 2.6,
+    "a": 53,
+    "cdt": 50,
+    "conf": 0.6,
+    "vmax": 2.2,
+    "shape_w": 2.0
+  },
+  "geovesselmot-120": {
+    "wx": 1.1,
+    "wy": 3.1,
+    "a": 9,
+    "cdt": 40,
+    "conf": 0.43,
+    "vmax": 0.4,
+    "shape_w": 1.75
+  },
+  "geovesselmot-123": {
+    "wx": 5.0,
+    "wy": 2.1,
+    "a": 11,
+    "cdt": 30,
+    "conf": 0.43,
+    "vmax": 2.2,
+    "shape_w": 2.5
+  },
+  "geovesselmot-125": {
+    "wx": 3.1,
+    "wy": 0.1,
+    "a": 39,
+    "cdt": 20,
+    "conf": 0.09,
+    "vmax": 2.9000000000000004,
+    "shape_w": 3.0
+  },
+  "geovesselmot-128": {
+    "wx": 4.6,
+    "wy": 0.1,
+    "a": 17,
+    "cdt": 35,
+    "conf": 0.060000000000000005,
+    "vmax": 2.1,
+    "shape_w": 2.5
+  },
+  "geovesselmot-134": {
+    "wx": 2.1,
+    "wy": 2.6,
+    "a": 55,
+    "cdt": 55,
+    "conf": 0.33999999999999997,
+    "vmax": 0.4,
+    "shape_w": 1.75
+  },
+  "geovesselmot-136": {
+    "wx": 2.1,
+    "wy": 2.1,
+    "a": 37,
+    "cdt": 10,
+    "conf": 0.5800000000000001,
+    "vmax": 0.5,
+    "shape_w": 1.75
+  },
+  "geovesselmot-138": {
+    "wx": 1.6,
+    "wy": 1.1,
+    "a": 11,
+    "cdt": 10,
+    "conf": 0.13,
+    "vmax": 0.30000000000000004,
+    "shape_w": 2.25
+  },
+  "geovesselmot-141": {
+    "wx": 0.1,
+    "wy": 0.6,
+    "a": 7,
+    "cdt": 50,
+    "conf": 0.14,
+    "vmax": 1.6,
+    "shape_w": 2.75
+  },
+  "geovesselmot-144": {
+    "wx": 2.1,
+    "wy": 0.1,
+    "a": 25,
+    "cdt": 45,
+    "conf": 0.16,
+    "vmax": 1.3,
+    "shape_w": 0.0
+  },
+  "geovesselmot-146": {
+    "wx": 3.1,
+    "wy": 0.1,
+    "a": 39,
+    "cdt": 20,
+    "conf": 0.09,
+    "vmax": 2.9000000000000004,
+    "shape_w": 3.0
+  },
+  "geovesselmot-149": {
+    "wx": 3.1,
+    "wy": 4.6,
+    "a": 7,
+    "cdt": 35,
+    "conf": 0.22000000000000003,
+    "vmax": 0.7,
+    "shape_w": 2.0
+  },
+  "geovesselmot-153": {
+    "wx": 2.1,
+    "wy": 4.6,
+    "a": 45,
+    "cdt": 40,
+    "conf": 0.14,
+    "vmax": 0.6000000000000001,
+    "shape_w": 0.25
+  }
+}
