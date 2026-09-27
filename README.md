@@ -1,10 +1,9 @@
 # Geometry-Language Distilled Hull-Aware Convolution for Real-Time UAV Multi-Vessel Tracking 
 
-**Zijie Zhang<sup>1</sup>, Changhong Fu<sup>1,†</sup>, Mengyuan Li<sup>1</sup>, Yongkang Cao<sup>1</sup>, Haobo Zuo<sup>2</sup>, Guangze Zheng<sup>2</sup>, Bowen Li<sup>3</sup>**
+**Zijie Zhang<sup>1</sup>, Changhong Fu<sup>1,†</sup>, Mengyuan Li<sup>1</sup>, Yongkang Cao<sup>1</sup>, Haobo Zuo<sup>2</sup>, and Guangze Zheng<sup>2</sup>**
 
 <sup>1</sup>Tongji University, Shanghai, China  
 <sup>2</sup>The University of Hong Kong, Hong Kong, China  
-<sup>3</sup>Carnegie Mellon University, Pittsburgh, USA  
 <sup>†</sup>Corresponding author
 
 
